@@ -1,0 +1,23 @@
+
+    {
+      "id": 1,
+      "title": "Avatar",
+      "overview": "The word avatar has multiple meanings, including a digital representation of a person and an incarnation of a Hindu deity.",
+      "release_date": "2025-01-01",
+      "rating": 8.2,
+      "genres": ["Action", "Adventure"],
+      "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS43Vt2jOEv2_xRvBCR7V1Fc-H3DNtNyE-qZw&s",
+      "runtime": 120,
+
+    
+      "id": 2,
+      "title": "Master",
+      "overview": "Master is a 2021 Indian Tamil-language action thriller film directed by Lokesh Kanagaraj and produced by S. Xavier Britto.",
+      "release_date": "2023-08-10",
+      "rating": 8.2,
+      "genres": ["Action", "Adventure"],
+      "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRRrwW-QhBh4CE20dVQLBGvXaljtkSWlVLtw&s",
+      "runtime": 120
+    }
+  
+  
